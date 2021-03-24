@@ -1,4 +1,5 @@
-CPS643 Course Labs and Final Project
+CPS643 Course Labs and Final Project  
+git clone <PROJECT_URL> to download Unity Project files  
   
 Lab1 - VRTK basics  
 Lab2 - SteamVR & Prefabs  
